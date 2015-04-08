@@ -1,1 +1,1 @@
-exports.NoTrello = require('./lib/notrello').NoTrello;
+module.exports = require('./lib/notrello');
