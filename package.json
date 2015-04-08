@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/charlenopires/notrello/issues"
   },
-  "homepage": "https://github.com/charlenopires/notrello"
+  "homepage": "https://github.com/charlenopires/notrello",
+  "dependencies": {
+    "oauth": "^0.9.12",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
 }
